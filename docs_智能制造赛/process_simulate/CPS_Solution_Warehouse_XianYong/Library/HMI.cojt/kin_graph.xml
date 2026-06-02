@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="gb2312"?>
+<AddFlow Nodes="0" Links="0">
+  <Version>2.2.0.0</Version>
+  <DefaultLink>
+    <Rigid>False</Rigid>
+  </DefaultLink>
+  <DefaultNode>
+    <Shape Type="RectEdgeRaised" Orientation="so_0" />
+    <HighlightChildren>False</HighlightChildren>
+  </DefaultNode>
+  <Node Index="-1" Left="166" Top="58" Width="135" Height="50">
+    <FillColor>-1</FillColor>
+    <Text>lnk1</Text>
+    <Tooltip>lnk1</Tooltip>
+    <Url>{C8DC12E2-19CB-4E72-8CB1-0566FF0184B2}</Url>
+  </Node>
+  <Node Index="-1" Left="124" Top="167" Width="104" Height="44">
+    <FillColor>-1</FillColor>
+    <Text>lnk2</Text>
+    <Tooltip>lnk2</Tooltip>
+    <Url>{9E4D2D60-7240-4DE9-8631-06A71AE41A32}</Url>
+  </Node>
+  <Node Index="-1" Left="283" Top="156" Width="92" Height="49">
+    <FillColor>-1</FillColor>
+    <Text>lnk3</Text>
+    <Tooltip>lnk3</Tooltip>
+    <Url>{460B6F80-41E0-47CB-959E-354CF79A08C4}</Url>
+  </Node>
+  <Node Index="-1" Left="201" Top="248" Width="100" Height="46">
+    <FillColor>-1</FillColor>
+    <Text>lnk4</Text>
+    <Tooltip>lnk4</Tooltip>
+    <Url>{38168A55-1D4F-4BDE-871B-7FC900082546}</Url>
+  </Node>
+  <Node Index="-1" Left="24" Top="124" Width="78" Height="55">
+    <FillColor>-1</FillColor>
+    <Text>lnk5</Text>
+    <Tooltip>lnk5</Tooltip>
+    <Url>{4648899A-9B4C-49D4-AA70-0ADCA986D991}</Url>
+  </Node>
+  <Node Index="-1" Left="376" Top="98" Width="135" Height="47">
+    <FillColor>-1</FillColor>
+    <Text>lnk6</Text>
+    <Tooltip>lnk6</Tooltip>
+    <Url>{1954A0FF-F2B6-4DE4-96DA-C057F825C6E5}</Url>
+  </Node>
+</AddFlow>
