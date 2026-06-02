@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="gb2312"?>
+<Data PpXmlVer="7.0"><Objects><PmPartPrototype ExternalId="E:\plm2025\COMPETITION\LASTCompetition\CPS_Solution_Warehouse_27_1127\Library\TP\YL.cojt\YL_pr"><name>YL</name>
+<status>Open</status>
+<cadSystem>0</cadSystem>
+<cadFile>E:\plm2025\COMPETITION\LASTCompetition\CPS_Solution_Warehouse_27_1127\Library\TP\YL.cojt\YL.jt</cadFile>
+<cadPath>E:\plm2025\COMPETITION\LASTCompetition\CPS_Solution_Warehouse_27_1127\Library\TP\YL.cojt\YL.jt</cadPath>
+<children/>
+<threeDRep>E:\plm2025\COMPETITION\LASTCompetition\CPS_Solution_Warehouse_27_1127\Library\TP\YL.cojt\YL_3d</threeDRep>
+</PmPartPrototype>
+<Pm3DRep ExternalId="E:\plm2025\COMPETITION\LASTCompetition\CPS_Solution_Warehouse_27_1127\Library\TP\YL.cojt\YL_3d"><name>3DRep*</name>
+<comment/>
+<attachments/>
+<status>Open</status>
+<file>E:\plm2025\COMPETITION\LASTCompetition\CPS_Solution_Warehouse_27_1127\Library\TP\YL.cojt\YL_loc</file>
+</Pm3DRep>
+<PmReferenceFile ExternalId="E:\plm2025\COMPETITION\LASTCompetition\CPS_Solution_Warehouse_27_1127\Library\TP\YL.cojt\YL_loc"><comment/>
+<attachments/>
+<status>Open</status>
+<fileName>#\YL.cojt</fileName>
+</PmReferenceFile>
+<PmLayout ExternalId="E:\plm2025\COMPETITION\LASTCompetition\CPS_Solution_Warehouse_27_1127\Library\TP\YL.cojt\YL_lt"><name>layout*</name>
+<comment/>
+<attachments/>
+<status>Open</status>
+<location><item>0</item>
+<item>0</item>
+<item>0</item>
+</location>
+<rotation><item>0</item>
+<item>0</item>
+<item>0</item>
+</rotation>
+</PmLayout>
+<PmPartInstance ExternalId="E:\plm2025\COMPETITION\LASTCompetition\CPS_Solution_Warehouse_27_1127\Library\TP\YL.cojt\YL"><name>YL</name>
+<comment/>
+<attachments/>
+<status>Open</status>
+<prototype>E:\plm2025\COMPETITION\LASTCompetition\CPS_Solution_Warehouse_27_1127\Library\TP\YL.cojt\YL_pr</prototype>
+<layout>E:\plm2025\COMPETITION\LASTCompetition\CPS_Solution_Warehouse_27_1127\Library\TP\YL.cojt\YL_lt</layout>
+</PmPartInstance>
+</Objects>
+</Data>
+

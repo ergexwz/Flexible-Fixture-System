@@ -1,0 +1,6 @@
+INFO 	[JT2CO_2002]	[2025_10_27_15:40:20]	----------------------------------------------------------------------------------------------------
+INFO 	[JT2CO_2001]	[2025_10_27_15:40:20]	Created by TxJt2co application.
+INFO 	[JT2CO_2003]	[2025_10_27_15:40:20]	Conversion Beginning on : 2025_10_27_15:40:20
+INFO 	[JT2CO_2004]	[2025_10_27_15:40:20]	The command line: E:\Program Files\Tecnomatix\CADTranslators\TxJt2co.exe E:\plm2025\COMPETITION\LASTCompetition\CPS_Solution_Warehouse_27_1127\Library\TP\YL.cojt\YL.jt -TxJT2cojt -extIdMod 1 -dest E:\plm2025\COMPETITION\LASTCompetition\CPS_Solution_Warehouse_27_1127\Library -output YL -emsClass PmCompoundPart;PmPartPrototype;PmPartInstance -l E:\plm2025\COMPETITION\LASTCompetition\CPS_Solution_Warehouse_27_1127\Library\TxJt2co_YL20251027_154018.log -insertComponent 
+INFO 	[JT2CO_2002]	[2025_10_27_15:40:20]	----------------------------------------------------------------------------------------------------
+INFO 	[JT2CO_2010]	[2025_10_27_15:40:20]	Conversion finished successfully!!!	
