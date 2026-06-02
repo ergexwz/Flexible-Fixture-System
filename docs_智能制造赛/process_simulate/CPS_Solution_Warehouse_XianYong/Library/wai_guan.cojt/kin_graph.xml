@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="gb2312"?>
+<AddFlow Nodes="0" Links="0">
+  <Version>2.2.0.0</Version>
+  <DefaultLink>
+    <Rigid>False</Rigid>
+  </DefaultLink>
+  <DefaultNode>
+    <Shape Type="RectEdgeRaised" Orientation="so_0" />
+    <HighlightChildren>False</HighlightChildren>
+  </DefaultNode>
+  <Node Index="-1" Left="136" Top="34" Width="112" Height="63">
+    <FillColor>-1</FillColor>
+    <Text>lnk1</Text>
+    <Tooltip>lnk1</Tooltip>
+    <Url>{46832EFD-3890-418B-9432-31A589E5254D}</Url>
+  </Node>
+  <Node Index="-1" Left="117" Top="147" Width="66" Height="39">
+    <FillColor>-1</FillColor>
+    <Text>lnk2</Text>
+    <Tooltip>lnk2</Tooltip>
+    <Url>{EF32422F-3091-4D75-B8F7-7778A440B452}</Url>
+  </Node>
+  <Node Index="-1" Left="218" Top="149" Width="78" Height="37">
+    <FillColor>-1</FillColor>
+    <Text>lnk3</Text>
+    <Tooltip>lnk3</Tooltip>
+    <Url>{176E8150-0A35-4356-B536-F22E40D3DFC8}</Url>
+  </Node>
+</AddFlow>
